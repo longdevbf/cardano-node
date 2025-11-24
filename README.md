@@ -9,6 +9,7 @@
     <img alt="GitHub Workflow Status (nightly)" src="https://img.shields.io/github/actions/workflow/status/intersectmbo/cardano-node/haskell.yml?branch=nightly&label=nightly&style=for-the-badge" />
   </a>
 </p>
+.
 
 # `cardano-node`
 
